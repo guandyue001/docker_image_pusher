@@ -4,4 +4,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 ghcr.io/beck-8/subs-check:latest
+#--platform=linux/arm64 ghcr.io/beck-8/subs-check:latest
+ghcr.io/wg-easy/wg-easy:14
